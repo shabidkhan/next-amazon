@@ -50,6 +50,10 @@ const useStyles = makeStyles((theme)=>({
         display: 'flex',
         },
     },
+    featuredImage: {
+        height: '100%',
+        width: '100%',
+    },
 }))
 
 export default useStyles;
